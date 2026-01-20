@@ -1,0 +1,12 @@
+Minimum Classifier Distance
+
+Hot Coding: Reemplazar el nombre de la clase por un código.
+
+ Calcular el vector promedio por clase o el centroide.
+
+ Calcular las distancias euclidianas entre cada punto y el centroide.
+ La distancia mínima se asocia con la distancia del centroide
+
+ Probar el clasificador con un subset del dataset y añadir otro vector de prueba.
+
+ Separalabidad lineal de clases

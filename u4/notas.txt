@@ -1,0 +1,3 @@
+Función gaussiana para aumentar ruido a datos
+Aplicar PCA clásico sin librerias a las caracteristicas de VGG16
+

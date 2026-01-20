@@ -1,0 +1,21 @@
+Cargar dataset
+
+Separar los datos de la etiqueta
+
+Hacer una selección aleatoria
+
+Separar en 3 partes: train, validation, testing para evitar el sobreajuste (overfitting)
+... en otro caso se puede separar solo en: training y testing.
+
+La proporción de elección es elegible.
+
+Validación cruzada (cross validation) -- wikipedia
+
+Hacer el muestreo por medio de una semilla, para obtener el indice aleatoriamente.
+Y generar el vector en base a la muestra obtenida
+
+Calcular las primeras 5 distancias y ver cual es la etiqueta que mas veces aparece.
+
+Calcular la distancia euclidiana entre un punto y todas las de entrenamiento y solo tomar la primeras 5 o 10
+
+Hacer el contador de cuántas veces aparece la misma etiqueta.

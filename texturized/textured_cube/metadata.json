@@ -1,0 +1,18 @@
+{
+  "class_name": "TexturedMesh",
+  "module_name": "__main__",
+  "field_data": {
+    "index_sizes": null,
+    "material_name": "cube_material",
+    "tags": [
+      "cube",
+      "example"
+    ]
+  },
+  "mesh_size": {
+    "vertex_count": 8,
+    "vertex_size": 12,
+    "index_count": 36,
+    "index_size": 4
+  }
+}

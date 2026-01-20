@@ -1,0 +1,23 @@
+La Ciencia se ocupa en general de fenómenos observables
+
+La Ciencia se desarrolla observando hechos, formulando leyes que los explican y realizando experimentos para validar o rechazar dichas leyes
+
+Los modelos que crea la ciencia son de tipo determinista o aleatorio(estocástico)
+
+La estadística se utiliza como tecnología al servicio
+
+
+------------------------------------------------------------------------------------------------------------
+* Programa de cálculo de histograma (tomar segmentos porque es distinto par datos continuos que discretos)
+Datos continuos (ingresar en contenedores)
+
+* Porcentaje de histograma y de frecuencias acumuladas (absoluta y relativa).
+* Calcular medias, medianas y moda
+* Medidas de dispersión:
+* Medidas de forma (asimetría y demás) (este solo si salia)
+* Diagrama de caja y bigotes (este solo era si salia)
+* Función de densidad que mas se acerque a los datos (buscar función en python que lo haga)
+
+----------------------------------------------------------------------------------------------------------------
+
+Programar coeficiente de correlación de Pearson
